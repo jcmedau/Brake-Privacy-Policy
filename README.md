@@ -2,4 +2,6 @@
 
 The Brake Cooling Schedule iOS app (aka Cool Brakes) does not collect any user data of any kind. The app does not access the Internet at all.
 
+All rights reserved.
+
 For support contact jc.medau@gmail.com
